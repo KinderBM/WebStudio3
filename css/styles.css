@@ -5,6 +5,11 @@
     --brand-color: #2196f3;
 }
 
+.container-principal {
+    width: 1600px;
+    height: 2348px;
+}
+
 .body {
     font-family: "Roboto", sans-serif;
     background-color: var(--background-color);
